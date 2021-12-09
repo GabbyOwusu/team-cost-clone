@@ -4,7 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+![Screenshot](https://github.com/GabbyOwusu/team-cost-clone/blob/main/images/Screenshot_1639102866.png)
+![Screenshot](https://github.com/GabbyOwusu/team-cost-clone/blob/main/images/Screenshot_1639102869.png)
+![Screenshot](https://github.com/GabbyOwusu/team-cost-clone/blob/main/images/Screenshot_1639102861.png)
+
 
 A few resources to get you started if this is your first Flutter project:
 
